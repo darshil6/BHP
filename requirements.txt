@@ -1,0 +1,7 @@
+flask
+bottle
+flask_cors
+numpy
+sklearn
+pickle
+json
